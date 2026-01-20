@@ -1,4 +1,4 @@
-# 📝 Task Manager – CRUD Web Application
+# Task Manager – CRUD Web Application
 
 A full-stack Task Manager application built using Node.js and Express.js that demonstrates complete CRUD functionality with RESTful routing and a responsive Bootstrap-based UI.
 
@@ -25,23 +25,4 @@ A full-stack Task Manager application built using Node.js and Express.js that de
 - **Utilities:** UUID, Method-Override  
 ---
 
-## Project Structure
-task-manager-crud/
-│
-├── index.js
-├── package.json
-│
-├── views/
-│ ├── index.ejs
-│ ├── new.ejs
-│ ├── show.ejs
-│ ├── edit.ejs
-│ └── partials/
-│ ├── navbar.ejs
-│ └── footer.ejs
-│
-└── public/
-
-
----
 
