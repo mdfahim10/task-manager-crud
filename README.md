@@ -13,7 +13,7 @@ A full-stack Task Manager application built using Node.js and Express.js that de
 - Delete tasks with confirmation prompt  
 - RESTful routing using Express  
 - Method override for PUT and DELETE requests  
-- Fully responsive and mobile-friendly UI  
+- Fully responsive and mobile-friendly UI    
 
 ---
 
@@ -23,7 +23,6 @@ A full-stack Task Manager application built using Node.js and Express.js that de
 - **Templating Engine:** EJS  
 - **Styling:** Bootstrap 5  
 - **Utilities:** UUID, Method-Override  
-
 ---
 
 ## Project Structure
