@@ -1,0 +1,21 @@
+body {
+    background: #f8f9fa;
+}
+
+.card {
+    border-radius: 12px;
+}
+
+.navbar-brand {
+    font-size: 1.3rem;
+}
+
+.btn {
+    border-radius: 8px;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
